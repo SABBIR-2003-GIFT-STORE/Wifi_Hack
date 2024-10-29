@@ -20,4 +20,4 @@ sudo python luckyhack.py --help
 
 
 
-sudo python luckyhack.py -i wlan0 -K￼Enter
+sudo python luckyhack.py -i wlan0 -K
